@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Netflix>
+    <Net Serie="Lucifer">
+        <director>Kevin Alejandro</director>
+        <estreno>25/01/2016</estreno>
+        <actores>Tom Ellis, Lauren German</actores>
+        <genero>Fantasia, comedia</genero>
+    </Net>
+    <Net Serie="Breaking Bad">
+        <director>Vince Guilligan</director>
+        <estreno>20/01/2008</estreno>
+        <actores>Bryan Cranston, Aaron Paul</actores>
+        <genero>Thrillers, Dramas</genero>
+    </Net>
+    <Net Serie="Juego del calamar">
+        <director>Hwang Dong-hyuk</director>
+        <estreno>17/09/2021</estreno>
+        <actores>Lee jung-iae, Lee Yoo-mi</actores>
+        <genero>Accion, Misterio</genero>
+    </Net>
+    <Net Serie="Sex!fy">
+        <director>Kalia Alabrudzinska</director>
+        <estreno>20/01/2008</estreno>
+        <actores>Sandra Drzvmalska, Aleksandra Skraba</actores>
+        <genero>Comedia dramatica/erotica</genero>
+    </Net>
+    <Net Serie="How to sell Drugs Online fast">
+        <director>Vince Guilligan</director>
+        <estreno>31/05/2019</estreno>
+        <actores>Maximilian Mundt, Danilo, Kamber</actores>
+        <genero>Adolecencia, Comedia negra</genero>
+    </Net>
+</Netflix>
+
+
+

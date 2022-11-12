@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<celular>
+    <cel Equipos="Moto z4 verizon">
+    <Procesador>Qualcomm Snapdragon 675</Procesador>
+    <Ram>4GB</Ram>
+    <pantalla>OLED 6,4 pulgadas (19:9). Resolución Full HD+ (2.340 x 1.080 píxeles)</pantalla>
+    <camara>48MP, f/1.7, OIS, PDAF, flash dual LED, vídeo 4K/30fps</camara>
+    </cel>
+    <cel Equipos="SAMSUNG GALAXY S5">
+    <Procesador>Qualcomm Snapdragon 801, quad-core a 2,5 GHz</Procesador>
+    <Ram>2GB</Ram>
+    <pantalla>SuperAMOLED de 5.1 pulgadas</pantalla>
+    <camara>Principal de 16 MP (ISOCELL / 1/2.6") con Enfoque Selectivo y vídeo UHD (secundaria de 2 MP)</camara>
+    </cel> 
+    <cel Equipos="IPhone 13 Pro Max">
+    <Procesador>A15 Bionic</Procesador>
+    <Ram>6GB</Ram>
+    <pantalla>Pantalla Super Retina XDR con ProMotion</pantalla>
+    <camara>Sistema de cámaras Pro de 12 MP: teleobjetivo, gran angular y ultra gran angular</camara>
+    </cel> 
+    <cel Equipos="SAMSUNG Galaxy-Z flip4">
+    <Procesador>Snapdragon 8+ Gen 1</Procesador>
+    <Ram>8GB</Ram>
+    <pantalla>Super AMOLED de 1,9 pulgadas (260 x 512 puntos) y 302 ppp</pantalla>
+    <camara>12 megapíxeles f/2.2</camara>
+    </cel> 
+    <cel Equipos="Xiaomi Redmi K40 Gaming">
+    <Procesador>MediaTek Dimensity 1200 GPU ARM Mali-G77 MC9</Procesador>
+    <Ram>6/8/12GB</Ram>
+    <pantalla>OLED flexible de 6,67 pulgadas Full HD+ (1.080 x 2.400 píxeles)</pantalla>
+    <camara>64 megapíxeles principal, f/1.65</camara>
+    </cel> 
+</celular>

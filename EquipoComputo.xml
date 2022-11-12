@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <eq Equipo="Lenovo Yoga 9i">
+        <Equipo>Lenovo Yoga 9i</Equipo>
+        <Procesador>Intel Core i7-1185G7</Procesador>
+        <Ram>16GB Soldered LPDDR4x-4266</Ram>
+        <Graficos>NVIDIA-GTX1650</Graficos>
+        <Colores>
+            <Color>Metalico</Color>
+        </Colores>
+    </eq>
+    <eq Equipo="Laptop Hp Omen 15">
+        <Equipo>Laptop Hp Omen 15</Equipo>
+        <Procesador>Intel Core i7-10750H </Procesador>
+        <Ram>16GB de SDRAM DDR4-2933</Ram>
+        <Graficos>Gráficos Intel UHD</Graficos>
+        <Colores>
+            <Color>Rojo</Color>
+        </Colores>
+    </eq>
+    <eq Equipo="Asus TUF 15.6">
+        <Equipo>Asus TUF 15.6</Equipo>
+        <Procesador>AMD Ryzen 7</Procesador>
+        <Ram>8GB</Ram>
+        <Graficos>NVIDIA GeForce RTX 3050</Graficos>
+        <Colores>
+            <Color>Negro</Color>
+        </Colores>
+    </eq>
+    <eq Equipo="HUAWEI MateBook D 16">
+        <Equipo>HUAWEI MateBook D 16</Equipo>
+        <Procesador>7nm AMD Ryzen 4000H-Series</Procesador>
+        <Ram>16GB</Ram>
+        <Graficos>DDR4 SDRAM</Graficos>
+        <Colores>
+            <Color>azul</Color>
+        </Colores>
+    </eq>
+    <eq Equipo="Acer Predator Helios 300 PH315-54-760S">
+        <Equipo>Acer Predator Helios 300 PH315-54-760S</Equipo>
+        <Procesador>Intel none</Procesador>
+        <Ram>16GB</Ram>
+        <Graficos>NVIDIA GeForce RTX 3060</Graficos>
+        <Colores>
+            <Color>Dorado</Color>
+        </Colores>
+    </eq>
+</equipos>
